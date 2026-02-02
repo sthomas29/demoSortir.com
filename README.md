@@ -1,3 +1,3 @@
 # Fichier Readme
 
-## Chapitre 1  : Config git
+## Chapitre 1 : Config git
